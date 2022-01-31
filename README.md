@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Econotravel client app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto sirve para comenzar la aplicación cliente de Econotravel. Estad atentas a las actualizaciones del proyecto!
+
 
 ## Available Scripts
 
